@@ -1,0 +1,142 @@
+BAD EFFECTS NOT SPECIFICALLY COMBAT RELATED
+	Weather should be important as it will effect temperature - making characters unwell and worse at stuff.
+	No food and drink will leave the character weak then dead.
+	Tiredness system? Makes the character weaker, slower, stupider and slower to react. Also gives a chance to pass out.
+	Items should degrade with use.
+	Fauna? Not too much that could be a real threat. Badgers are pretty nasty? BUT seriously though disease and infection! INFECTION!
+	Fires? See All Nightmare Long video.
+	Sanity system makes the players halucinate etc.
+
+
+SUPPLIES ETC.
+	SEE FULL ITEMS LIST.
+	Guns and ammo should be rare, as in RARE. If the survivors manage to get hold of a gun, it should be a big deal. It should also be used sparingly as there won't be bags of ammo knocking about. 
+	Places guns could be found: sometimes in possesion of police, military, farmers and that, hunters and competition shooters, criminals/dodgy types and arms manufacturers.
+	See seperate full list of stuff for more details and that.
+	Most weapons should be improvised unless you get lucky and find something great.
+
+
+STATS AND COMBAT
+	Each unit should have a random attack value ie 1-4 or 3-7. Zombies should be naturally more dangerous than humans, such that combat, particularly unarmed, is tough.
+	Each unit should have hit points, maybe broken down into sections so that chars can take damage to arms, legs, torso etc. Could REALLY break it down, think Inquisitor and imagine legs getting blown off and arms getting ripped out of sockets. How would this be visually represented and how would healing work? Probably shouldn't be a fast-track "get back 10 hit points", it should be long and painful, but maybe give a way to get temporary hit points from adrenaline and stuff in combat.
+	Some units will have armour which flat-out decreases damage by a certain number of points. This doesn't necessarily represent padding, it can be bravery or, in the zombies case, lack of pain.
+	All units have a movement speed (most units have the same speed which is defined by the scale of the game. If it was advance wars scale, each unit would have movement 1. If the scale was smaller, they'd be able to move more squares). Should zombies be slower? Probably not. Might remove some of the scariness if they're all slow and stupid. They should probably be savage and (to some degree) cunning.
+	Different weapons should have different ranges, once again depending on scale, SEE ABOVE.
+	How would reloading be handled? For that matter, how would actions be handled? MoveMinorStandard? Also, weapon jams?
+
+
+WORLD DESIGN
+	World map for exploration, think Avernum style free explore. 
+	Use a real world map of somewhere, potentially: the moors, the highlands, Selly and surrounding (silly), coastal town (water would be interesting), really inner city.
+	Each different setting comes with different challenges ie inner city areas are very well supplied and good for access etc. but might higher population of zombies and other survivors. On the other hand, survivors in  the highlands are less likely to run into other, but things like hunger and exposure become much greater problems. The moors is probably a great mix of the two; decent sized towns are around, but it's proper wilderness between them.
+	Consider story implications as well. Why is each character there? How did they survive when society was falling apart? Where will they go? What are their priorities now? These choices can still be down to the player, but might give them a guide on what they might want to do and will affect how each character acts and interacts.
+	Use a real location for inspiration, but make it up so that it can conveniently have all the cool things you want on the map. Still use real towns but decide what's in all the buildings and stuff.
+	Government and military broadcasts occasionally on radio and such, might not always be helpful. Some might be misguided or accidentally misleading/callous e.g. quarantines and destruction of infected areas.
+
+
+GUNS AND FIREARMS
+	Modern semi-automatic guns are banned, as well as handguns. These are POSSIBLY still available, but only from criminal sources/manufacturers and will be much rarer.
+	Crimal, so called "backstreet engineers" usually involved in organised crime can convert imitation firearms into working ones.
+	According to recent figures:
+		138,728 people hold firearms licesnes in England and Wales, 26,072 in Scotland,
+		435,383 firearms in England and Wales, 70,839 in Scotland,
+		574,946 shotgun certificates in England and Wales, 50,000 in Scotland,
+		1.4million shotguns in England and Wales, 137,768 in Scotland,
+		Population of England and Wales WAS 56.6million and Scotland was 5.3million.
+	Firearms use bullets and can only be used for specific purposes in specific places e.g. deer stalking or shooting on a range. Most are .22 calibre. 
+	Shotguns are used in general rural circumstances, mostly for pest control.
+	300,000 farms in the UK, good chance that pretty much all of them has at least got a shotgun or two. Some might have a firearm as well.
+	ALL guns have to be kept in special, secure gun lockers with a key by law. This would usually be kept on the premises. Not all owners might really abide by this system.
+	They're usually available from specialist sport and hunting shops to buy. 
+
+
+Bravery should be a very important factor. If somebody invests all their points in combat, shooting, survivalism etc. but none in bravery, they should be at a big disadvantage.
+
+
+Should all the numbers and calculations be up front a plain to see in typical RPG fashion, or should they be invisible, maybe not even damage numbers and hit results etc. for realism and difficulty/scariness? 
+
+
+Advancing shouldn't be a matter of earning some points and then spending them on stats, you should get better at things you practice. Take risks to increase decision making, stand and fight to increase bravery, shoot things (even targets) to improve accuracy.
+
+
+Menu background could be a real high-res photo of where it's set, would have to borrow a camera. Or, maybe a video/animation of rain falling in a puddle? Could use reflections?
+
+
+Put a bass-drum "heartbeat" dum-dum in when the player ends a turn. Maybe make it quicker as time goes on/with more enemies/with their bravery and current state of panic? Could make a thing of it, like the chance that each character could flee - the faster the heartbeat the more likely it is.
+
+
+LOVE the survivors fleeing thing, should definitely be implemented. Consequences? And how will tactical retreats be handled?
+
+
+As well as shooting potentially spawning zombies, any noise should have a small chance of spawning and there should be a chance for some to spawn every day in unsafe ares depending on how populated the area is etc. In combat, could have them spawn a random number of turns later from the edge of the "board" or an unexplored area.
+
+
+Think about how to have multiple save games.
+
+
+As well as the original "free play" mode, could do a story driven "campaign". Would reaquire a well thought out story and might kill the whole point of the game, but could be easier to build first than just jumping in at the deep end with "free play".
+
+
+Each char has a personality and gets on better with certain personality types etc. Have to random gen these (though some are common sense like can't be brave and spineless) which give a relationship stat between each pair of chars (like Warlock). This defines their relationship and effects how well theu work together etc. chars with a milicious streak might let an "enemy" die, a brave char could save somebody who doesn't like them which will affect their relationship. If somebody flees from a planned fight or something, the other chars might not rely on them as much.
+
+
+Initiative between 0 and 10, fastest chars have init 10. Z's are random.
+
+
+Stealth can sneak past or surprise attack. On surprise attack, enemy initiative takes a penalty equal (?) to stealth skill. Want a good surprise attack to be able to be over very quickly.
+
+
+Remove the RPG style combat menus in place of a "what will you do" style. Would have to have a lot of invalid responses unless it was REALLY fleshed out. A good solid playtest will help me put together a list of what people want (could even write it into the program). Each available option would need to have about a million ways of phrasing it so that it catches everybody e.g. "attack", "shoot", "fight", "hit" etc.
+
+
+Instead of Zombie 1, Zombie 2 etc. could build a HUGE list of names. Wouldn't make sense, but might be a nice touch e.g. David, Sandra.
+
+
+
+
+
+For the "multiple zombie" problem create them one at a time, maybe using a linked list or something. When they spawn at the start (and each time further zombies spawn), run a for loop to call the relevant function enough times. Function allocates memory, creates a new zombie array, sets initiative and adds the zombie to the list. This should be a MUCH simpler (kind of) form than using multi-dimensional arrays.
+Alternatively, consider using one really long single-dimension array. Pain in the arse, but maybe simpler? If zombies are numbered as 0, 1, 2, 3... etc. then any stat can be called by calling array[stat_number + (zombie_number*7)]. This would also make using functions and memory allocation simpler. Would have to allocate an array of the size number_of_stats*number_of_zombies.
+
+
+
+
+
+
+
+Combat: 
+1. Choose Action (attack)
+   1.1. Check range or return to 1. 
+2. Make hit check. 
+   2.1. hit_threshold = 99 - accuracy
+          hit_check = (rand() % 100) +1
+          If hit_check > 94
+               Critical hit
+               result = 5
+          Else if hit_check > hit_threshold
+               Hit
+               result = 4
+          Else if hit_check > hit_threshold - 20 (arbitrary number, change?)
+               Glancing hit
+               result = 3
+          Else if hit_check < 6
+               Critical miss
+               result = 1
+          Else 
+               Miss
+               result = 2
+3. Calculate damage. Skip if result < 3
+   3.1. damage = (rand() % (y-x+1)) + x where x is mindmg and y is maxdmg. This calculates base damage. 
+   3.2. Apply modifier from how good hit was to "damage". Add any bonuses from accuracy etc. Series of if statements. 
+   3.3. Subtract any modifiers from armour etc. Series of if statements. 
+   3.4. Take final result of "damage" from the affected party's HP. 
+
+Accuracy 1 - 100 stat, higher is better, maybe have a different stat for melee hits? Call it fighting or something, scale it the same, and for each 10th point in that stat, +1 damage modifier. Might be OP, maybe every tenth point over 50 would be more balanced. Will need to figure out how to reduce to the last ten for the calculations. Maybe do it during initialisation. DON'T change the stat itself, use a placeholder to add it on to damage. 
+COVER should effect how likely you are to hit. How though? Increase hit_threshold? Quite a simple, elegant way of doing it. 
+Critical hit (double damage, or instant kill?)
+Hit
+Glancing hit (half damage, or double armour?)
+Miss
+Critical miss (weapon jam? Misfire? Ooa? Not sure yet! Maybe a penalty that's not specific to weapons, like getting stuck or armour penalty.)
+DO A TEST SOFTWARE THAT COUNTS HOW MANY TIMES EACH ONE COMES UP. 
+At start of combat, count all active participants on each side and save these numbers. Each time a combatant flees or dies, reduce it's sides number by 1. When either number reaches 0, combat is over. To prevent death messages on fleeing, when a character flees, set a "flee" variable to true or 1. Then, when ending combat, check "flee", the number of good left and the number of evil left to determine the end of combat message.

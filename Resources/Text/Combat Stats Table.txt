@@ -1,0 +1,1 @@
+Name Number HP Range Accuracy Damage Armour Speed Initiative

@@ -1,0 +1,57 @@
+Antibiotics
+Arrow, 26"
+Arrow, 29"
+Arrow, 31"
+Axe, Felling
+Axe, Fire
+Axe, Hatchet
+Axe, Mattock
+Axe, Pick
+Axe, Splitting 
+Bandages
+Batteries
+Bottled Water
+(SIZE?) Bow
+(SIZE?) Bow, Recurve 
+(SIZE?) Bullets
+Canned Food
+Cigarette Lighter
+Cricket Bat
+Flint & Steel
+"Fresh" Food
+Frying Pan
+Guitar
+Hammer, Claw
+Hammer, Lump
+Hammer, Sledge
+Heavy Boots
+Helmet
+Kitchen Knife
+Leathers
+Lighter Fluid
+Matches
+Matches, Strike-Anywhere
+Matches, Waterproof
+Nails
+Needle
+Penknife
+Petrol Can
+(TYPE?) Rifle
+Saucepan
+Saw
+Saw, String
+(SIZE?) Shells
+(TYPE?) Shotgun
+Shovel
+Sleeping Bag
+Splitting Maul
+Tent
+Thread
+Tinder
+Torch
+Waterproof Container
+Waterproof Clothes
+Wellies
+Winter Coat
+
+Add LOADS more stuff.
